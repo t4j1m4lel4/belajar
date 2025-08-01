@@ -1,0 +1,2 @@
+# belajar
+ini file pembejarn
